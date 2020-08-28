@@ -1,0 +1,45 @@
+body {
+	padding: 50px;
+	
+	background-color: #000000;
+}
+
+/*#mapid { height: 500px; }*/
+
+p, ul{
+	color: #ffffff;
+	
+	font-family: 'Work Sans', sans-serif;
+	
+	font-weight: 300;
+	
+	width: 325px;
+	
+	line-height: 1.25;
+}
+
+p{
+	margin: 8px;
+}
+
+h1, h2, h4{
+	font-weight: 700;
+	
+	font-family: 'Play', sans-serif;
+	
+	margin-top: 15px;
+	
+	margin-bottom: 5px;
+}
+
+h1{
+	color: #00c7ff;
+}
+
+h2{
+	color: #ff0000;
+}
+
+h4{
+	color: #ff6600;
+}
